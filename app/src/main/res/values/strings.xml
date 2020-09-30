@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Pokémon Starters</string>
+
+    <string name="bulbasaur">Bulbasaur</string>
+    <string name="charmander">Charmander</string>
+    <string name="squirtle">Squirtle</string>
+
+</resources>
