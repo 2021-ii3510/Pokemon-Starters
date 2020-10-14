@@ -6,4 +6,7 @@
     <string name="charmander">Charmander</string>
     <string name="squirtle">Squirtle</string>
 
+    <string name="bulbasaur_description">"Bulbasaur is the Pokémon you want to choose if you don't want to get your ass kicked."</string>
+    <string name="charmander_description">"Charmander is for hardcore gamers only!"</string>
+    <string name="squirtle_description">"Squirtle is the obvious choice. Look how cute it is."</string>
 </resources>
